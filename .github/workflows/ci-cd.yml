@@ -35,7 +35,7 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         run: >
           mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar 
-          -Dsonar.projectKey=zhfrann
+          -Dsonar.projectKey=zhfrann_basic-cicd-simulation
           -Dsonar.organization=zhfrann
           -Dsonar.host.url=https://sonarcloud.io
           -Dsonar.qualitygate.wait=true
