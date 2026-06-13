@@ -3,6 +3,8 @@
 Project ini digunakan untuk tugas Manajemen Konfigurasi dan Evolusi Perangkat Lunak tentang penerapan CI/CD menggunakan GitHub Actions
 <tes>
 
+asdasdsad
+
 ## Teknologi
 
 - Java 17
