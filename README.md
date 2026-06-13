@@ -1,6 +1,6 @@
 # Basic Java Maven CI/CD
 
-Project ini digunakan untuk tugas Manajemen Konfigurasi dan Evolusi Perangkat Lunak tentang penerapan CI/CD menggunakan GitHub Actions.
+Project ini digunakan untuk tugas Manajemen Konfigurasi dan Evolusi Perangkat Lunak tentang penerapan CI/CD menggunakan GitHub Actions
 
 ## Teknologi
 
