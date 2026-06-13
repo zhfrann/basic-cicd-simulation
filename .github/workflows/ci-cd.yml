@@ -38,6 +38,7 @@ jobs:
           -Dsonar.projectKey=zhfrann
           -Dsonar.organization=zhfrann
           -Dsonar.host.url=https://sonarcloud.io
+          -Dsonar.qualitygate.wait=true
 
       - name: Upload test and coverage reports
         if: always()
