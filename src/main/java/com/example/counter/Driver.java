@@ -6,7 +6,7 @@ public class Driver {
         counter.increment();
         counter.increaseBy(4);
         counter.triple();
-        counter.doubleCount();
+        counter.increaseBy(8);
 
         System.out.println("Counter value now: " + counter.getCount());
         System.out.println("Is counter even? " + counter.isCountEven());
